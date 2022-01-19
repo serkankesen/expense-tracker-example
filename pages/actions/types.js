@@ -1,0 +1,4 @@
+export const CREATE_EXPENSE = "CREATE_EXPENSE";
+export const CREATE_INCOME = "CREATE_INCOME";
+export const FETCH_INCOMES = "FETCH_INCOMES";
+export const FETCH_EXPENSES = "FETCH_EXPENSES";
