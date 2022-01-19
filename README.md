@@ -2,14 +2,14 @@
 ## Getting Started
 
 // Project setup
-npm
+- npm
 
 // Compiles and hot-reloads for development
-npm dev run
+- npm dev run
 
 // Complies node.js for development
-cd server
-node index.js
+- cd server
+- node index.js
 
 // Compiles and minifies for production
-yarn run build
+- yarn run build
